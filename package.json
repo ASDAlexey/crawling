@@ -4,6 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "needle": "^2.0.1"
-  }
+    "cheerio": "^1.0.0-rc.2",
+    "needle": "^2.0.1",
+    "tress": "^1.0.5"
+  },
+  "repository": "git@github.com:ASDAlexey/crawling.git",
+  "author": "Alexey Popov <alexey.popov@umbrella-web.com>"
 }
